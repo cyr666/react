@@ -1,0 +1,1 @@
+export const LIST_CHANGE = "LIST/LIST_CHANGE";

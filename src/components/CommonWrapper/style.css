@@ -1,0 +1,133 @@
+.index{
+	background:#EDF8FC;
+}
+.header{
+	overflow: hidden;
+	background:#fff;
+}
+.header-img{
+	float: left;
+    height: 60px;
+    margin: 5px 0 0 60px;  
+}
+.header-item{
+	white-space: nowrap;
+    float: left;
+    padding: 0 10px;
+    margin-top: 13px;
+    border-right: 1px solid #666;
+}
+.EngType-con{
+	overflow: hidden;
+}
+.standardEnglish,.slowEnglish,.EnglishTeach{
+	float:left;
+	border-bottom: 1px solid #FFE9D3;
+	border-right: 1px solid #FFE9D3;
+    background: #fdf4e5;
+    height: 26px;
+    line-height: 26px;
+    font-size: 12px;
+    text-align: center;
+    color: #666;
+}
+.EngTypeList{
+	overflow: hidden;
+	background:#fff;
+}
+.standardEnglish-list{
+	float:left;
+	width:115px;
+}
+.standardEnglish-item{
+	text-align: center;
+	width:114px;
+    height: 26px;
+    line-height: 26px;
+    background:#fff;
+    border-right: 1px solid #FFE9D3;
+}
+.slowEnglish-list{
+	float:left;
+	width:424px;
+	overflow: hidden;
+	border-right: 1px solid #FFE9D3;
+}
+.slowEnglish-item{
+	text-align: center;
+	width:84px;
+    height: 26px;
+    line-height: 26px;
+    float: left;
+}
+.EnglishTeach-list{
+	float:left;
+	width:483px;
+	overflow: hidden;
+	border-right: 1px solid #FFE9D3;
+}
+.EnglishTeachList-item{
+	text-align: center;
+	width:84px;
+    height: 26px;
+    line-height: 26px;
+    float: left;
+}
+.advert{
+	margin-top: 4px;
+    height: 25px;
+    border: 1px solid #ccc;
+    background:#fff;
+}
+.hot-recommend,.Chrome,.voa,.USA,.onlineEng{
+	display: inline-block;
+}
+.hot-recommend{
+	line-height: 25px;
+    width: 60px;
+    padding: 0 10px;
+    color: #888;
+    font-size: 12px;
+}
+.Chrome{
+	font-size: 10px;
+	background:#ccc;
+}
+.voa,.USA,.onlineEng{
+	width:188px;
+	height:15px;
+	margin:0 20px;
+	line-height: 15px;
+	text-align: center;
+	border:1px solid #0066cc;
+	border-radius: 10px;
+}
+.voa:hover{
+	background:#0066cc;
+	cursor: pointer;
+}
+.USA:hover{
+	background:#0066cc;
+	cursor: pointer;
+}
+.onlineEng:hover{
+	background:#0066cc;
+	cursor: pointer;
+}
+.footer{
+	height:92px;
+	border:1px solid #666;
+	background:#fff;
+}
+.partner{
+	line-height: 30px;
+    text-align: center;
+}
+.introduce{
+	line-height: 30px;
+    text-align: center;
+}
+.net{
+	color:orange;
+	font-weight: bold;
+}

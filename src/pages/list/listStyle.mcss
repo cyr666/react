@@ -1,0 +1,21 @@
+.list-content{
+	margin-top: 4px;
+    width: 1022px;
+   /* height: 650px;*/
+    border: 1px solid #ff4444;
+    background: white;
+}
+.list-title{
+	line-height: 25px;
+    font-weight: normal;
+    background: #ff4444;
+    color: #fff;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 15px;
+}
+.list-item{
+    line-height: 22px;
+    padding: 1px 5px 1px 0;
+    color:#004499;
+}
